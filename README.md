@@ -1,3 +1,5 @@
+User Authentication and Secrets
+
 This is a simple Node.js web application that allows users to register, log in, and submit secrets that can be viewed by other users.
 
 Features
